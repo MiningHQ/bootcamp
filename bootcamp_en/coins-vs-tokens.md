@@ -34,7 +34,7 @@ The amount of coins created by mining for every new block
 
 The current price of a single unit of a currency, usually priced in Bitcoin
 
-**Satoshis or sats*
+**Satoshis or sats**
 
 The smallest unit of Bitcoin, 1 satoshi equals 0.00000001 Bitcoin.
 
