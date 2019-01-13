@@ -5,10 +5,11 @@ This bootcamp is a quick introduction to cryptocurrency mining for anyone new to
 We'll cover topics such as:
 
 1. What are coins and tokens
-2. Blockchains, daemons and network nodes
-3. Wallets and exchanges
-4. Mining algorithms, rewards, pools and hashrates
-5. How MiningHQ makes mining easier
+2. Terms you should know
+3. Blockchains, daemons and network nodes
+4. Wallets and exchanges
+5. Mining algorithms, rewards, pools and hashrates
+6. How MiningHQ makes mining easier
 
 It will take you around 15 minutes to work through the bootcamp. Once you're done with the bootcamp, feel free to continue to the MiningHQ help sections to understand the concepts behind MiningHQ a bit better.
 
