@@ -6,19 +6,21 @@ Most exchanges work as a trading platform as well, you place a trade for currenc
 and the trade/exchange will be executed at that price. Or you can simple exchange the currency A for B at the currenct price.
 
 
-## Know Your Customer - KYC
+#### Know Your Customer - KYC
 
-Some countries and exchanges require you to submit legal personal documents for them to be able to identify you and your trades. 
+Some countries and exchanges require you to submit legal personal documents for them to be able to identify you and your trades.
 Keep this in mind when working with exchanges and always stay on the right side of the law when exchanging cryptocurrencies.
 
 
-### List of some exchanges
+## List of some exchanges
 
-Since we focus on cryptonight-based cryptocurrencies at MiningHQ, here is a list of some of the popular exchanges in the community.
+Here is a list of some of the popular exchanges that allow the trade of cryptonight-based cryptocurrencies.
 
-https://www.cryptopia.co.nz/
-https://tradeogre.com/
-https://www.stex.com/
-https://crex24.com/
+<a target="_blank" class="text-link text-primary" href="https://www.cryptopia.co.nz/">Cryptopia <i class="fa fa-fw fa-external-link"></i></a><br />
+<a target="_blank" class="text-link text-primary" href="https://tradeogre.com/">TradeOgre <i class="fa fa-fw fa-external-link"></i></a><br />
+<a target="_blank" class="text-link text-primary" href="https://www.stex.com/">Stex <i class="fa fa-fw fa-external-link"></i></a><br />
+<a target="_blank" class="text-link text-primary" href="https://crex24.com/">Crex24 <i class="fa fa-fw fa-external-link"></i></a><br />
 
-A much larger list is available at [CoinMarketCap](https://coinmarketcap.com/rankings/exchanges/)
+A much larger list is available at <a target="_blank" class="text-link text-primary" href="https://coinmarketcap.com/rankings/exchanges/">CoinMarketCap <i class="fa fa-fw fa-external-link"></i></a>
+
+<a href="/bootcamp/mining-overview" class="btn btn-info">Next: An overview of mining <i class="fa fa-fw fa-chevron-right"></i></a>

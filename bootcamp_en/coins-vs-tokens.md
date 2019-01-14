@@ -4,47 +4,17 @@ Cryptocurrencies can by split into two groups namely coins and tokens. There is 
 
 ## Coins
 
-Coins are typically used to replace money - like cash. Also, they usually use their own blockchain and wallets. They are know as 'altcoins' - or an alternative to bitcoin. Because these coins have their own blockchain, you can usually mine them.
+Coins are typically used to replace money - like cash. They usually use their own blockchain and wallet. Bitcoin is the most popular while thousands of altcoins (alternatives to Bitcoin) exist. Because these coins have their own blockchain, you can usually mine them.
 
-### Privacy coins
+#### Privacy coins
 
-Privacy coins are implemented in such a way that only you know the balance of your wallet. You'd think this is standard, but it is not. Anyone with your Bitcoin wallet address can check how many Bitcoins you have. Privacy coins like Monero hide your balance, only you can check the balance.
+Privacy coins are implemented in such a way that only you know the balance of your wallet. You'd think this is standard, but it is not. Anyone with your Bitcoin wallet address can check how many Bitcoins you have. Privacy coins like Monero hide your balance, only you can see it.
 
 ## Tokens
 
 Tokens can represent more that just money. You can have a token be anything you want it to be. They typically do not have their own blockchain and is usually implemented using the ERC20 standard running on top of Ethereum or Waves. Because they don't have their own blockchain, they can't be mined the same way most coins can.
 
-*At MiningHQ we only focus on coins that can be mined*  
 
-### Typical terms to know
+***At MiningHQ we only focus on coins that can be mined***
 
-**Supply**
-
-This is the total amount of coins that will ever exist
-
-**Circulating supply**
-
-The total amount of coins that exist at this time
-
-**Block reward**
-
-The amount of coins created by mining for every new block
-
-**Price**
-
-The current price of a single unit of a currency, usually priced in Bitcoin
-
-**Satoshis or sats**
-
-The smallest unit of Bitcoin, 1 satoshi equals 0.00000001 Bitcoin.
-
-**Market cap**
-
-Usually stated in US$, it is the circulating supply multipled by the currenct price. It represents the total
-current value of an entire coin.
-
-(circulating supply * price in BTC) * BTC price in US$
-
-**Fiat currency**
-
-A fiat currency is any currency that is a issued and backed by a government. Some examples include the US dollar and Euro.
+<a href="/bootcamp/terms-to-know" class="btn btn-info">Next: Terms to know <i class="fa fa-fw fa-chevron-right"></i></a>
