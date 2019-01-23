@@ -25,7 +25,7 @@ In the help we cover:
 <a href="/help/index" class="btn btn-info">Go to help <i class="fa fa-fw fa-chevron-right"></i></a>
 
 You're not alone, join our community on Discord and Twitter to learn even more, tweak your mining setup and perhaps even pick up a trick or two.<br />
-All our community channels can be found at <a target="_blank" class="text-info" href="https://www.mininghq.io/connect">https://www.mininghq.io/connect  <i class="fa fa-fw fa-external-link"></i></a>
+All our community channels can be found at <a target="_blank" class="text-primary" href="https://www.mininghq.io/connect">https://www.mininghq.io/connect  <i class="fa fa-fw fa-external-link"></i></a>
 
 **Let's mine,**<br />
 The MiningHQ team
