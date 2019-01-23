@@ -1,7 +1,7 @@
 # Mining software and antivirus
 
 Cryptocurrency miners are detected by most antivirus software and removed even though they don't contain any
-viruses. To use this computer to mine cryptocurrencies you need to exclude the miner installation path from being scanned.
+viruses. To use a computer to mine cryptocurrencies you need to exclude the miner installation path from being scanned.
 
 The MiningHQ installer will tell you which directory to exclude so your miners are not removed.
 

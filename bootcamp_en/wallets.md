@@ -5,7 +5,7 @@ This means that you can transact as you wish with anyone and no person or compan
 
 **With this power comes great responsibility**
 
-Because you are in control of your own wallet, you must keep your wallet information safe. If you loose your wallet details, **no one can recover it** for you. Most cryptocurrencies generate wallets with 'seed words'. You **must** keep those seed words safe. We can not stress this enough.
+Because you are in control of your own wallet, you must keep your wallet information safe. If you lose your wallet details, **no one can recover it** for you. Most cryptocurrencies generate wallets with 'seed words'. You **must** keep those seed words safe. We can not stress this enough.
 
 Your wallet address is *meant* to be used publicly, <u>everything else</u> must be kept <u>safe</u> and <u>secret</u>.
 
@@ -18,7 +18,6 @@ Paper wallets are simple web pages that you can use to generate a wallet with. Y
 ##### GUI Wallets (Graphical User Interface Wallets)
 
 GUI wallets are visual applications that you use to transact.
-Below is a screenshot of a GUI wallet
 
 ##### CLI Wallets (Command-line Interface Wallets)
 

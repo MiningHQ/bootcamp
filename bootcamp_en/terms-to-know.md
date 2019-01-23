@@ -34,6 +34,6 @@ _((circulating supply) x (price in BTC)) x (BTC price in US$)_
 
 **Fiat currency**
 
-A fiat currency is any currency that is a issued and backed by a government. Some examples include the US dollar and Euro.
+A fiat currency is any currency that is issued and backed by a government. Some examples include the US dollar and Euro.
 
 <a href="/bootcamp/wallets" class="btn btn-info">Next: Wallets <i class="fa fa-fw fa-chevron-right"></i></a>

@@ -22,7 +22,7 @@ The single coin strategy mines a single coin using a single wallet and pool unti
 ## Expand your portfolio <small class="text-success text-sm">available</small>
 
 Not putting all your mining into a single coin is a smart move in this fast paced
-crypto world. To achieve this mining goal we created the Expand your portfolio strategy.
+crypto world. To achieve this mining goal we created the 'Expand your portfolio' strategy.
 
 It will mine one coin for a specified amount of time before starting with the next one
 selected by you until the strategy is changed, round robin style. Any coin you have a wallet for may be selected.
@@ -38,7 +38,7 @@ all the coins you wish to mine
 
 ## Most profitable <small class="text-danger text-sm">in development</small>
 
-The most profitable strategy will switch you to mine one of the supported listed coins that will gain you the most
+The most profitable strategy will switch you to mine one of the supported exchange listed coins that will gain you the most
 in Bitcoin. We'll only switch once every 100 minutes to ensure you gain at least some coins.
 
 Note: We can only mine coins that you have a wallet address for. Ensure you have set up wallets for
@@ -50,7 +50,7 @@ all the coins you wish to mine
 The split mining strategy is a special kind of strategy. It splits your rig's resources into smaller units so that you
 may assign parts of your rig to different strategies.
 
-You can set your CPU to mine currency A and our GPUs to mine currency B.
+Example: You can set your CPU to mine currency A and our GPUs to mine currency B.
 
 ## Custom coin <small class="text-danger text-sm">in development</small>
 

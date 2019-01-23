@@ -25,7 +25,7 @@ You'll be mining within 5 minutes.
 <br />
 <small>no credit card required, it's free</small>
 
-Thanks for checking out our Mining Bootcamp, if you have any suggestions, please feel free to get in contact on <a target="_blank" class="text-link text-primary" href="/connect">any of our support channels <i class="fa fa-fw fa-external-link"></i></a>. We'd love to hear from you.
+Thanks for checking out our Mining Bootcamp, if you have any suggestions, please feel free to get in contact on <a target="_blank" class="text-link text-primary" href="/connect">any of our support channels<i class="fa fa-fw fa-external-link"></i></a>. We'd love to hear from you.
 
 Happy mining,<br />
 The MiningHQ team

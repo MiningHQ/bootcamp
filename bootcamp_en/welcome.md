@@ -6,21 +6,20 @@ We'll cover topics such as:
 
 1. What are coins and tokens
 2. Terms you should know
-3. Blockchains, daemons and network nodes
-4. Wallets and exchanges
-5. Mining algorithms, rewards, pools and hashrates
-6. How MiningHQ makes mining easier
+3. Wallets and exchanges
+4. Mining algorithms, rewards, pools and hashrates
+5. How MiningHQ makes mining easier
 
 It will take you around 15 minutes to work through the bootcamp.<br />
-Once you're done with the bootcamp, feel free to continue to the MiningHQ help sections to understand the concepts behind MiningHQ a bit better.
+Once you're done with the bootcamp, feel free to continue to the MiningHQ help section to understand the concepts behind MiningHQ a bit better.
 
 <a href="/bootcamp/coins-vs-tokens" class="btn btn-info">First topic: Coins vs. Tokens <i class="fa fa-fw fa-chevron-right"></i></a>
 
 In the help we cover:
 
 1. MiningHQ mining strategies
-2. Antivirus issues when mining
-3. How to protect yourself in the cryptocurrency world
+2. MiningHQ supported coins
+3. Antivirus issues when mining
 
 <a href="/help/index" class="btn btn-info">Go to help <i class="fa fa-fw fa-chevron-right"></i></a>
 

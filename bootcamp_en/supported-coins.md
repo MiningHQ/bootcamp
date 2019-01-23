@@ -6,7 +6,7 @@ stats and provide you with a profile of every coin under the <a href="/coins" cl
 We are always adding more coins, feel free to tell us about your favourite coin on any
 of our <a href="/connect" target="_blank" class="text-primary">support channels <i class="fa fa-fw fa-external-link"></i></a>
 
-We currently support the following coins, in alphabetical order:
+Currently supported coins, in alphabetical order:
 
 1. <a href="https://arqma.com/" target="_blank" class="text-primary">ArQmA <i class="fa fa-fw fa-external-link"></i></a>
 1. <a href="https://ryo-currency.com/" target="_blank" class="text-primary">RYO <i class="fa fa-fw fa-external-link"></i></a>

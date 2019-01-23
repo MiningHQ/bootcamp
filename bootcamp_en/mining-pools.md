@@ -2,7 +2,7 @@
 
 Mining can be split into two groups, pool and solo mining.
 
-Mining on your own with only your own mining power is called Solo mining. You need enough mining power to find a block on your own. This might be feasable in the first few hours after a coin in launched, but is not recommended. The possibility of you finding a block is very slim.
+Mining on your own with only your own mining power is called Solo mining. You need enough mining power to find a block on your own. This might be feasible in the first few hours after a coin is launched, but is not recommended. The possibility of you finding a block is very slim.
 
 Pool mining is where you, together with other miners, try to find a block together. If a block is found, the reward is split based on the work each miner did. This is by far the best way to mine. Together you'll find more blocks and thus more rewards.
 

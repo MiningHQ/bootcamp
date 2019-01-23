@@ -2,7 +2,7 @@
 
 You'll need some mining software, also known as a miner.
 
-Below are some of the most well known miners for Cryptonight:
+Below are some of the most well-known miners for Cryptonight:
 
 <a target="_blank" class="text-link text-primary" href="https://github.com/fireice-uk/xmr-stak">xmr-stak<i class="fa fa-fw fa-external-link"></i></a><br />
 Supports CPU, Nvidia and AMD GPU<br />
@@ -26,7 +26,7 @@ Windows only
 
 ### MiningHQ manages the software for you
 
-When you install the MiningHQ Miner Manager you no longer need to install mining software. MiningHQ will automatically install and configure the software for you. We'll also give you a nice dashboard to manage your mining from, even when you are not at home.
+When you install the MiningHQ Miner Manager, you no longer need to install mining software. MiningHQ will automatically install and configure the software for you. We'll also give you a nice dashboard to manage your mining from, even when you are not at home.
 
 ### A note on antivirus
 

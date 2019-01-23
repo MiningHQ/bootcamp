@@ -23,7 +23,7 @@ below 100% and bad luck is over.
 
 **Hashrate**
 
-The amount of hashes created per second<br />
+The amount of hashes created per second, that is, the amount of mathematical problems solved per second<br />
 1 KH/s refers to 1 000 H/s<br />
 1 MH/s refers to 1 000 KH/s or 1 000 000 H/s<br />
 
@@ -55,8 +55,13 @@ Other versions exist such as cryptonight-lite and cryptonight-heavy.
 The standard cryptonight algorithms requires 2MB of L3 CPU cache, lite requires 1MB
 while heavy requires 4MB.
 
-Cryptonight, cryptonight-lite and cryptonight-heavy and base algorithms. Some coins
+Cryptonight, cryptonight-lite and cryptonight-heavy are base algorithms. Some coins
 use them directly, others make small tweaks which result in a new variant, such
-as cryptonight-fast.
+as cryptonight-fast or cryptonight-half.
+
+**Difficulty Adjustment Algorithm (or DAA)**
+
+The algorithm that determines the difficulty for the next block. A good Difficulty Adjustment Algorithm
+can help protect a coin against specific types of mining attacks. 
 
 <a href="/bootcamp/mining-pools" class="btn btn-info">Next: Pools <i class="fa fa-fw fa-chevron-right"></i></a>
