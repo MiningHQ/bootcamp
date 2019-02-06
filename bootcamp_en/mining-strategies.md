@@ -50,7 +50,7 @@ all the coins you wish to mine
 The split mining strategy is a special kind of strategy. It splits your rig's resources into smaller units so that you
 may assign parts of your rig to different strategies.
 
-Example: You can set your CPU to mine currency A and our GPUs to mine currency B.
+Example: You can set your CPU to mine currency A and your GPUs to mine currency B.
 
 ## Custom coin <small class="text-danger text-sm">in development</small>
 
