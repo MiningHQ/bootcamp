@@ -9,5 +9,12 @@ of our <a href="/connect" target="_blank" class="text-primary">support channels 
 Currently supported coins, in alphabetical order:
 
 1. <a href="https://arqma.com/" target="_blank" class="text-primary">ArQmA <i class="fa fa-fw fa-external-link"></i></a>
+1. <a href="https://www.getmonero.org/" target="_blank" class="text-primary">Monero <i class="fa fa-fw fa-external-link"></i></a>
+1. <a href="https://loki.network/" target="_blank" class="text-primary">Loki <i class="fa fa-fw fa-external-link"></i></a>
 1. <a href="https://ryo-currency.com/" target="_blank" class="text-primary">RYO <i class="fa fa-fw fa-external-link"></i></a>
 1. <a href="https://stellite.cash/" target="_blank" class="text-primary">Stellite <i class="fa fa-fw fa-external-link"></i></a>
+1. <a href="https://turtlecoin.lol/" target="_blank" class="text-primary">TurtleCoin <i class="fa fa-fw fa-external-link"></i></a>
+
+
+
+
