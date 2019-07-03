@@ -1,6 +1,4 @@
-# MiningHQ
-
-The easiest way to mine cryptocurrencies
+### MiningHQ
 
 ## The MiningHQ bootcamp
 
